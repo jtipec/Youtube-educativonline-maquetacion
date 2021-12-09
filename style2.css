@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color: black;
+}
+body{
+    width: 1000px;
+    height: 800px;
+    background-color: red;
+    margin: auto;    
+}
+header{
+    width: 1000px;
+    height: 200px;
+    background-color: pink;
+}
+nav{
+    width: 1000px;
+    height: 50px;
+    background-color: blue;
+}
+main{
+    width: 1000px;
+    height: 500px;
+    background-color: greenyellow;
+}
+footer{
+    width: 1000px;
+    height: 50px;
+    background-color: skyblue;
+}
+section#logo{
+    width: 200px;
+    height: 200px;
+    background-color: royalblue;
+    float: left;
+}
+section#banner{
+    width: 800px;
+    height: 200px;
+    background-color: green;
+    float: left;
+}
+article{
+    width: 700px;
+    height: 500px;
+    background-color: springgreen;
+    float: left;
+}
+aside{
+    width: 300px;
+    height: 500px;
+    background-color: teal;
+    float: left;
+}
